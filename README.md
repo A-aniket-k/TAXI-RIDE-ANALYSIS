@@ -2,6 +2,8 @@
 
 An industry-grade Power BI Data Analytics project focused on tracking, visualizing, and analyzing taxi operational performance, ride completions, and cancellation dynamics. This repository features two completely separate, custom-designed `.pbix` reporting files—one fully engineered for **Light Theme** and another built for **Dark Theme**—to deliver executive-ready stakeholder insights across different visual formats.
 
+👉 **[View my Project Launch Post on LinkedIn]([ADD_YOUR_LINKEDIN_POST_URL_HERE](https://www.linkedin.com/posts/aniket-kumar-analyst_dataanalytics-powerbi-businessintelligence-ugcPost-7465359917571461120-nGVL/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEHsDAsBokp4pHucJ1rlMV8E0NxqhNZUJJU))**
+
 ## 📊 Business Metrics & Objectives
 * **Total Bookings & Operational Volume:** Monitoring overall ride frequency and demand patterns over time.
 * **Granular Ride Status Analysis:** Breakdown of successful rides vs. dropped or incomplete trips.
